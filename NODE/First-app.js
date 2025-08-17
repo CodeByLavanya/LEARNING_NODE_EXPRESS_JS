@@ -1,0 +1,2 @@
+const fs=require('fs');
+fs.writeFileSync('text.txt','create a file in the current folder and give a file name and content in side the text file');//create a file in the current folder and give a file name and content in side the text file
